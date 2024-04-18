@@ -1,0 +1,30 @@
+div {
+    display: block;
+    border: 20px dotted rgb(196, 50, 209);
+    border-radius: 30px;
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+
+    outline-width: 40px;
+   
+    outline-color: rgb(223, 132, 196);
+
+    background-image: url(flor-de-orquidea-com-petalas-cor-de-rosa.jpg);
+    background-size: cover;
+    text-align:left;
+
+    box-shadow: 20px 40px 10px 20px rgb(64, 64, 216);
+
+   }
+
+   h1{
+    padding-top: 200px;
+    color: rgb(20, 78, 59);
+   }
+
+
+   
+   
+  
